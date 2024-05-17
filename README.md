@@ -2,9 +2,7 @@
 
 Soluciones a problemas de LeetCode.
 
-Mi perfil: [LeetCode](https://leetcode.com/u/Xabierland/)
-
-## Problemas a resolver
+## Problemas pendientes
 
 - 2
 - 21
